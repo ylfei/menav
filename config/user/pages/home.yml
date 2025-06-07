@@ -18,7 +18,7 @@ categories:
         description: 阿里云培训中心面向客户提供的集“学-练-测-证”于一体的一站式在线学习与实践平台
       - name: 地矿学院
         url: http://www.hagmc.edu.cn
-        icon: fas fa-hotel
+        icon: fas fa-graduation-cap
         description: 河南地矿职业学院
       - name: 超星学习通
         url: https://passport2.chaoxing.com/login?fid=&newversion=true&refer=https%3A%2F%2Fi.chaoxing.com
