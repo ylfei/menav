@@ -8,10 +8,6 @@ categories:
   - name: 常用网站
     icon: fas fa-star
     sites:
-      - name: 金山文档
-        url: https://www.kdocs.cn
-        icon: fab fa-dochub
-        description: 可多人实时协作编辑的在线文档
       - name: 河南地矿职业学院
         url: http://www.hagmc.edu.cn
         icon: fas fa-school
@@ -32,16 +28,11 @@ categories:
         url: https://axutongxue.cn
         icon: fas fa-sitemap
         description: 实用导航
-       
-      - name: my导航
-        url: https://yanglf.ysepan.com
-        icon: fas fa-sitemap
-        description: 网站软件收藏
       
       - name: 哔哩哔哩
         url: https://www.bilibili.com
         icon: fab fa-bilibili
-        description: 视频学习平台
+        description: 
       
   - name: 电子邮箱
     icon: fas fa-envelopes-bulk
