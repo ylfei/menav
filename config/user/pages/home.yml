@@ -8,27 +8,26 @@ categories:
   - name: 常用网站
     icon: fas fa-star
     sites:
-      - name: 河南地矿职业学院
-        url: http://www.hagmc.edu.cn
-        icon: fas fa-school
-        description: 河南地矿职业学院官网
-      - name: 阿里云中学堂
-        url: https://college.aliyun.com
-        icon: fas fa-cloud
-        description: 阿里云培训中心面向客户提供的集“学-练-测-证”于一体的一站式在线学习与实践平台
-      - name: 超星学习通
-        url: https://passport2.chaoxing.com
-        icon: fas fa-book
-        description: 超星学习通
       - name: 阿虚同学的储物间
         url: https://axutongxue.cn
         icon: fas fa-sitemap
         description: 实用导航
+      - name: 阿里云中学堂
+        url: https://college.aliyun.com
+        icon: fas fa-cloud
+        description: 阿里云培训中心面向客户提供的集“学-练-测-证”于一体的一站式在线学习与实践平台
+      - name: 河南地矿职业学院
+        url: http://www.hagmc.edu.cn
+        icon: fas fa-school
+        description: 河南地矿职业学院官网
+      - name: 超星学习通
+        url: https://passport2.chaoxing.com/login?fid=&newversion=true&refer=https%3A%2F%2Fi.chaoxing.com
+        icon: fas fa-book
+        description: 超星学习通
       - name: 哔哩哔哩
         url: https://www.bilibili.com
         icon: fab fa-bilibili
         description: 视频弹幕网站
-      
   - name: 电子邮箱
     icon: fas fa-envelopes-bulk
     sites:
