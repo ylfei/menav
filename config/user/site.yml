@@ -8,15 +8,15 @@ logo_text: 导航站
 fonts:
   title:
     family: Poppins
-    weight: 400
+    weight: 700
     source: system
   subtitle:
     family: Quicksand
-    weight: 400
+    weight: 500
     source: system
   body:
     family: Noto Sans SC
-    weight: 300
+    weight: 400
     source: system
     
 profile:
