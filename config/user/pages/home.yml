@@ -1,0 +1,352 @@
+title: 
+subtitle: 个人导航站点
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: home
+
+categories:
+  - name: 常用网站
+    icon: fas fa-star
+    sites:
+      - name: 金山文档
+        url: https://www.kdocs.cn
+        icon: fab fa-dochub
+        description: 可多人实时协作编辑的在线文档
+      - name: 河南地矿职业学院
+        url: http://www.hagmc.edu.cn
+        icon: fas fa-school
+        description: 河南地矿职业学院官网
+      - name: 阿里云中学堂
+        url: https://college.aliyun.com
+        icon: fas fa-cloud
+        description: 阿里云培训中心面向客户提供的集“学-练-测-证”于一体的一站式在线学习与实践平台
+      - name: 超星学习通
+        url: https://passport2.chaoxing.com
+        icon: fas fa-book
+        description: 超星学习通
+      - name: 今日热榜
+        url: https://tophub.today/c/news
+        icon: fas fa-magnifying-glass
+        description: 新闻热搜榜
+      - name: 阿虚同学的储物间
+        url: https://axutongxue.cn
+        icon: fas fa-sitemap
+        description: 实用导航
+      - name: IT天空
+        url: https://www.itsk.com
+        icon: fab fa-skyatlas
+        description: 以系统封装技术与驱动技术为主的综合性IT站点  
+      - name: my导航
+        url: https://yanglf.ysepan.com
+        icon: fas fa-sitemap
+        description: 网站软件收藏
+      - name: 个人博客
+        url: https://ylfei-github-io.pages.dev
+        icon: fas fa-blog
+        description: 个人博客
+      - name: 哔哩哔哩
+        url: https://www.bilibili.com
+        icon: fab fa-bilibili
+        description: 视频学习平台
+      
+  - name: 电子邮箱
+    icon: fas fa-envelopes-bulk
+    sites:
+      - name: 126邮箱
+        url: https://mail.126.com
+        icon: fas fa-envelope
+        description: 网易126免费邮箱--你的专业电子邮局
+      - name: 163邮箱
+        url: https://mail.163.com
+        icon: fas fa-envelope
+        description: 网易163免费邮箱--中文邮箱第一品牌
+      - name: QQ邮箱
+        url: https://mail.qq.com
+        icon: fas fa-envelope
+        description: QQ邮箱,常联系！
+      - name: 腾讯企业邮箱
+        url: https://exmail.qq.com/login
+        icon: fas fa-envelope-open-text
+        description: 腾讯企业邮箱，唯一可以在微信中收发邮件的企业邮箱
+      - name: 临时邮箱
+        url: https://24mail.chacuo.net
+        icon: fas fa-envelope
+        description: 临时邮箱、24小时邮箱      
+  
+  - name: 软件工具
+    icon: fas fa-tools
+    sites:
+      - name: MSDN
+        url: https://msdn.itellyou.cn
+        icon: fab fa-windows
+        description: MSDN,我告诉你
+      - name: Office Tool Plus
+        url: https://otp.landian.vip/zh-cn
+        icon: fab fa-microsoft
+        description: 基于Office部署工具制作，除此之外还集成了各种实用性工具
+      - name: 正版中国
+        url: https://www.getitfree.cn
+        icon: fab fa-microsoft
+        description: 以提供正版软件限时免费信息为途径,引导用户养成使用正版软件的习惯
+      - name: 枫音应用
+        url: https://fy6b.com
+        icon: fab fa-microsoft
+        description: 专注分享免费、绿色实用软件
+      - name: 果核剥壳
+        url: https://www.ghxi.com
+        icon: fas fa-apple-whole
+        description: 博客类型的资源分享软件，分享绿色软件软件等
+      - name: 腾讯软件中心
+        url: https://pc.qq.com
+        icon: fab fa-microsoft
+        description: 提拱海量免费软件安全下载  
+      - name: 小鱼儿yr系统
+        url: https://www.yrxitong.com
+        icon: fab fa-windows
+        description: 专注于系统封装重装系统下载软件分享教程
+      - name: 系统总裁
+        url: https://www.sysceo.com
+        icon: fab fa-windows
+        description: 系统封装，系统封装工具，封装软件
+      - name: 奔跑中的奶酪
+        url: https://www.runningcheese.com
+        icon: far fa-chess-queen
+        description: 技术分享
+      - name: 大眼仔
+        url: https://www.dayanzai.me
+        icon: far fa-eye
+        description: 提供各类PC软件,绿色软件,汉化软件,软件教程
+      - name: Ventoy
+        url: https://www.ventoy.net/cn/index.html
+        icon: fab fa-usb
+        description: 新一代多系统启动U盘解决方案
+      - name: 优启通
+        url: https://www.upe.net
+        icon: fab fa-usb
+        description: 专业U盘启动制作工具
+      - name: DLL-FLES
+        url: https://cn.dll-files.com
+        icon: fas fa-tools
+        description: DLL问题解决方案
+      - name: DLL之家
+        url: https://www.dllzj.com
+        icon: fas fa-tools
+        description: DLL文件搜索
+      - name: VS Code
+        url: https://code.visualstudio.com
+        icon: fas fa-code
+        description: 强大的代码编辑器
+      - name: Git
+        url: https://git-scm.com
+        icon: fab fa-git-alt
+        description: 版本控制工具
+      - name: Snipaste
+        url: https://zh.snipaste.com
+        icon: far fa-image
+        description: Snipaste-截图 + 贴图
+      - name: TrafficMonitor
+        url: https://github.com/zhongyang219/TrafficMonitor/releases
+        icon: fas fa-flask
+        description:  流量监控器
+      - name: HEU_Activator
+        url: https://github.com/zbezj/HEU_KMS_Activator
+        icon: fab fa-airbnb
+        description: HEU
+      - name: QuickLook
+        url: https://github.com/QL-Win/QuickLook
+        icon: fab fa-phabricator
+        description: QuickLook
+  - name: 学习资源
+    icon: fas fa-graduation-cap
+    sites:
+      - name: 中国大学MOOC（慕课）
+        url: https://www.icourse163.org
+        icon: fas fa-book
+        description: 中国大学MOOC（慕课）国家精品课程在线学习平台
+      - name: 大学资源网
+        url: http://www.dxzy163.com
+        icon: fas fa-book
+        description: 大学资源网致力于为每个希望提升自己能力的人提供学习平台
+      - name: 超星学习通
+        url: https://passport2.chaoxing.com
+        icon: fas fa-book
+        description: 超星学习通
+      - name: 腾讯课堂
+        url: https://ke.qq.com
+        icon: fas fa-play-circle
+        description: 腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师
+      - name: 哔哩哔哩
+        url: https://www.bilibili.com
+        icon: fab fa-bilibili
+        description: 视频学习平台
+      - name: 菜鸟教程
+        url: https://www.runoob.com
+        icon: fas fa-code
+        description: 菜鸟教程提供了编程的基础技术教程
+      - name: w3school
+        url: https://www.w3school.com.cn
+        icon: fas fa-code
+        description: w3school 在线教程
+  - name: 影视资源
+    icon: far fa-newspaper
+    sites:
+      - name: 爱奇艺
+        url: https://www.iqiyi.com
+        icon: fab fa-youtube
+        description: 在线视频网站，海量正版高清视频在线观看
+      - name: 优酷
+        url: https://www.youku.com
+        icon: fab fa-youtube
+        description: 视频服务平台,提供视频播放,视频发布,视频搜索,视频分享
+      - name: 腾讯视频
+        url: https://v.qq.com
+        icon: fab fa-youtube
+        description: 在线视频媒体平台，海量高清视频在线观看
+      - name: 央视网
+        url: https://tv.cctv.com
+        icon: fab fa-youtube
+        description: 央视网是中央广播电视总台主办的中央重点新闻网站
+      - name: 央视纪实
+        url: http://jishi.cctv.com
+        icon: fab fa-youtube
+        description: 汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、NHK等
+      
+  - name: 社区资讯
+    icon: far fa-newspaper
+    sites:
+      - name: IT之家
+        url: https://www.ithome.com
+        icon: far fa-newspaper
+        description: 快速精选IT新闻，实时报道科技周边
+      - name: IT天空
+        url: https://www.itsk.com
+        icon: fab fa-skyatlas
+        description: 以系统封装技术与驱动技术为主的综合性IT站点
+      - name: GitHub
+        url: https://www.github.com
+        icon: fab fa-github
+        description: 代码托管平台
+      - name: Cloudflare
+        url: https://dash.cloudflare.com
+        icon: fab fa-cloudflare
+        description: dash.cloudflare
+      - name: Font Awesome
+        url: https://fontawesome.com
+        icon: fas fa-icons
+        description: Font Awesome图标网站
+  - name: 网络存储
+    icon: fab fa-skyatlas
+    sites:
+      - name: 阿里云盘
+        url: https://www.aliyundrive.com
+        icon: fab fa-skyatlas
+        description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘
+      - name: 文叔叔
+        url: https://www.wenshushu.cn
+        icon: fab fa-skyatlas
+        description: 传文件，找文叔叔（永不限速）
+      - name: 123云盘
+        url: https://www.123pan.com
+        icon: fab fa-skyatlas
+        description: 一键下载分享文件 超大文件快传 免登录下载
+      - name: 永硕E盘
+        url: https://www.ys168.com
+        icon: fab fa-skyatlas
+        description: 数据存储、交流平台,可以保存您的文件、网址、记事等 
+  - name: 网页扩展
+    icon: fas fa-bookmark
+    sites:
+      - name: Chrome插件
+        url: https://huajiakeji.com
+        icon: fab fa-google-plus-g
+        description: 使用Chrome插件可以为Chrome浏览器带来一些功能性的扩展
+      - name: Crx4Chrome插件下载
+        url: http://www.crx4.com
+        icon: fab fa-google-plus-g
+        description: 用户可以直接在Chrome商店中下载和安装谷歌浏览器插件
+      - name: Crx搜搜
+        url: https:/www.crxsoso.com
+        icon: fab fa-google-plus-g
+        description: 浏览器扩展商店
+      - name: Greasy Fork
+        url: https://greasyfork.org
+        icon: fas fa-money-check
+        description: Greasy Fork - 安全、实用的用户脚本大全
+  - name: PDF转换
+    icon: fas fa-file-pdf
+    sites:
+      - name: PDF2GO
+        url: https://www.pdf2go.com/zh
+        icon: far fa-file-pdf
+        description: 免费的在线PDF转换器
+      - name: iLovePDF
+        url: http://www.ilovepdf.com/zh-cn
+        icon: far fa-file-pdf
+        description: 免费支持15MB的PDF转换
+      - name: ALL TO ALL
+        url: https://www.alltoall.net
+        icon: fas fa-border-all
+        description: 在线格式转换
+     
+  - name: 设计资源
+    icon: fas fa-palette
+    sites:
+      - name: SDC优设网配色工具
+        url: https://color.uisdc.com
+        icon: fas fa-palette
+        description: 优设网帮助您完成配色方案，不用配色软件轻松配色
+      - name: 中国传统颜色
+        url: https://zhongguose.com
+        icon: fas fa-palette
+        description: 中国传统颜色
+      - name: HTML拾色器
+        url: https://www.runoob.com/tags/html-colorpicker.html
+        icon: fas fa-eye-dropper
+        description: HTML拾色器
+      - name: IconFont
+        url: https://www.iconfont.cn
+        icon: fas fa-icons
+        description: 图标资源库
+      - name: 站长字体
+        url: https://font.chinaz.com
+        icon: fas fa-font
+        description: 字体库提供,中文字体下载,英文字体下载,书法字体下载,方正字体下载等字体免费下载  
+      - name: 找字网
+        url: http://www.zhaozi.cn
+        icon: fas fa-font
+        description: 提供中英文免费字体下载 
+      - name: 字体之家
+        url: http://www.17ziti.com
+        icon: fas fa-font
+        description:  字体之家提供最全的免费手机字体和手机软件下载
+      - name: 字体传奇网
+        url: http://ziticq.com
+        icon: fas fa-font
+        description:  中国首个字体品牌设计师交流网
+      - name: 蛙蛙工具
+        url: https://www.iamwawa.cn
+        icon: fas fa-toolbox
+        description: 便捷的在线工具网站   
+  - name: 网址导航
+    icon: fas fa-route
+    sites:
+      - name: 有趣网站之家
+        url: https://youquhome.com
+        icon: fas fa-magnifying-glass
+        description: 分享有趣的国内外网站，应用新奇的html5网站
+      - name: 阿虚同学的储物间
+        url: https://axutongxue.gitee.io
+        icon: fas fa-house
+        description: 实用导航
+      - name: 考拉新媒体导航
+        url: https://www.kaolamedia.com
+        icon: far fa-newspaper
+        description: 考拉新媒体导航，新媒体人的专属门户网站
+      - name: 新媒体导航
+        url: http://123.meibp.com
+        icon: far fa-newspaper
+        description: 工具推荐服务，是一个优秀、绿色、安全、好用的新媒体助手
+      - name: my导航
+        url: http://yanglf.ysepan.com
+        icon: fab fa-skyatlas
+        description:  ysepan.com
