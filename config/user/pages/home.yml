@@ -20,10 +20,7 @@ categories:
         url: https://passport2.chaoxing.com
         icon: fas fa-book
         description: 超星学习通
-      - name: 今日热榜
-        url: https://tophub.today/c/news
-        icon: fas fa-magnifying-glass
-        description: 新闻热搜榜
+      
       - name: 阿虚同学的储物间
         url: https://axutongxue.cn
         icon: fas fa-sitemap
@@ -32,7 +29,7 @@ categories:
       - name: 哔哩哔哩
         url: https://www.bilibili.com
         icon: fab fa-bilibili
-        description: 
+        description: 视频弹幕网站
       
   - name: 电子邮箱
     icon: fas fa-envelopes-bulk
