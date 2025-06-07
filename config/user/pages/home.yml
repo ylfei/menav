@@ -20,12 +20,10 @@ categories:
         url: https://passport2.chaoxing.com
         icon: fas fa-book
         description: 超星学习通
-      
       - name: 阿虚同学的储物间
         url: https://axutongxue.cn
         icon: fas fa-sitemap
         description: 实用导航
-      
       - name: 哔哩哔哩
         url: https://www.bilibili.com
         icon: fab fa-bilibili
@@ -118,10 +116,7 @@ categories:
         url: https://code.visualstudio.com
         icon: fas fa-code
         description: 强大的代码编辑器
-      - name: Git
-        url: https://git-scm.com
-        icon: fab fa-git-alt
-        description: 版本控制工具
+      
       - name: Snipaste
         url: https://zh.snipaste.com
         icon: far fa-image
@@ -150,7 +145,7 @@ categories:
         icon: fas fa-book
         description: 大学资源网致力于为每个希望提升自己能力的人提供学习平台
       - name: 超星学习通
-        url: https://passport2.chaoxing.com
+        url: https://passport2.chaoxing.com/login?fid=&newversion=true&refer=https%3A%2F%2Fi.chaoxing.com
         icon: fas fa-book
         description: 超星学习通
       - name: 腾讯课堂
@@ -223,6 +218,10 @@ categories:
         url: https://www.aliyundrive.com
         icon: fab fa-skyatlas
         description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘
+      - name: 百度网盘
+        url: https://pan.baidu.com
+        icon: fab fa-skyatlas
+        description: 百度网盘是一款国民级产品,已连续12年为超过10亿用户提供稳定、安全的个人云存储服务
       - name: 文叔叔
         url: https://www.wenshushu.cn
         icon: fab fa-skyatlas
