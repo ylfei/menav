@@ -4,9 +4,6 @@ author: ylf
 favicon: favicon.ico
 logo_text: 导航站
 
-theme:
-  default: "light"
-  toggleIcon: true
 
 fonts:
   title:
