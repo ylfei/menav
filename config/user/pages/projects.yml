@@ -2,7 +2,7 @@ title: 我的项目
 subtitle: 这里展示了我的一些个人项目和开源贡献
 
 # 指定使用的模板文件名，现有页面模板可见templates\pages
-template: projects
+template: 项目
 
 categories:
   - name: 个人项目
@@ -25,8 +25,8 @@ categories:
     sites:
       - name: Project A
         icon: fab fa-github
-        description: 开源项目贡献
-        url: "#"
+        description: MeNav导航
+        url: https://github.com/ylfei/z
       - name: Project B
         icon: fab fa-github
         description: 开源项目贡献
