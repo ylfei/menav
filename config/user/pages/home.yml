@@ -48,7 +48,7 @@ categories:
         icon: fas fa-envelope-open-text
         description: 腾讯企业邮箱，唯一可以在微信中收发邮件的企业邮箱
       - name: 临时邮箱
-        url: https://24mail.chacuo.net
+        url: https://www.tempmailbox.net/zh
         icon: fas fa-envelope
         description: 临时邮箱、24小时邮箱      
   
