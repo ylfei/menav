@@ -31,3 +31,7 @@ social:
   - name: 旧版导航
     url: https://ylfei.github.io/d
     icon: fab fa-github 
+  - name: 今日热榜
+    url: https://tophub.today/c/news
+    icon: fas fa-magnifying-glass
+    description: 新闻热搜榜
