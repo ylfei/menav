@@ -25,8 +25,8 @@ categories:
     sites:
       - name: Project A
         icon: fab fa-github
-        description: MeNav导航
-        url: https://github.com/ylfei/z
+        description:  MeNav导航
+        url:  https://github.com/ylfei/z
       - name: Project B
         icon: fab fa-github
         description: 开源项目贡献
