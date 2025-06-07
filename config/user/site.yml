@@ -1,6 +1,6 @@
 title: 我的导航
 description: 个人网络导航站
-author: ylfei
+author: ylf
 favicon: favicon.ico
 logo_text: 导航站
 
@@ -23,15 +23,12 @@ fonts:
     source: system
     
 profile:
-  title: 
+  title: "Hello"
   subtitle: "收集实用网站和工具"
   description: 
 
 social:
   - name: GitHub
-    url: https://github.com
+    url: https://github.com/ylfei/z
     icon: fab fa-github
-  - name: Telegram
-    url: https://t.me
-    icon: fab fa-telegram
   
