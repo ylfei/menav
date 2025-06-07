@@ -41,7 +41,7 @@ categories:
         description: 网易163免费邮箱--中文邮箱第一品牌
       - name: QQ邮箱
         url: https://mail.qq.com
-        icon: fas fa-envelope
+        icon: fab fa-qq
         description: QQ邮箱,常联系！
       - name: 腾讯企业邮箱
         url: https://exmail.qq.com/login
@@ -61,7 +61,7 @@ categories:
         description: MSDN,我告诉你
       - name: Office Tool Plus
         url: https://otp.landian.vip/zh-cn
-        icon: fab fa-microsoft
+        icon: fab fa-windwos
         description: 基于Office部署工具制作，除此之外还集成了各种实用性工具
       - name: 正版中国
         url: https://www.getitfree.cn
