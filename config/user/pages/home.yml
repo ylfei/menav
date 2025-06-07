@@ -32,18 +32,12 @@ categories:
         url: https://axutongxue.cn
         icon: fas fa-sitemap
         description: 实用导航
-      - name: IT天空
-        url: https://www.itsk.com
-        icon: fab fa-skyatlas
-        description: 以系统封装技术与驱动技术为主的综合性IT站点  
+       
       - name: my导航
         url: https://yanglf.ysepan.com
         icon: fas fa-sitemap
         description: 网站软件收藏
-      - name: 个人博客
-        url: https://ylfei-github-io.pages.dev
-        icon: fas fa-blog
-        description: 个人博客
+      
       - name: 哔哩哔哩
         url: https://www.bilibili.com
         icon: fab fa-bilibili
