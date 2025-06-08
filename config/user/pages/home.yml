@@ -61,7 +61,7 @@ categories:
         description: MSDN,我告诉你
       - name: Office Tool Plus
         url: https://otp.landian.vip/zh-cn
-        icon: fab fa-windwos
+        icon: fab fa-windows
         description: 基于Office部署工具制作，除此之外还集成了各种实用性工具
       - name: 正版中国
         url: https://www.getitfree.cn
