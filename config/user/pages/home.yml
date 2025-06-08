@@ -27,8 +27,8 @@ categories:
       - name: 哔哩哔哩
         url: https://www.bilibili.com
         icon: fab fa-bilibili
-        description: 视频弹幕网站
-  - name: 电子邮箱
+        description: 以动漫、游戏、音乐等内容为主的视频弹幕网站
+  - name: 电子
     icon: fas fa-envelopes-bulk
     sites:
       - name: 126邮箱
@@ -90,7 +90,7 @@ categories:
       - name: 奔跑中的奶酪
         url: https://www.runningcheese.com
         icon: far fa-chess-queen
-        description: 技术分享
+        description: 技术分享，浏览器扩展
       - name: 大眼仔
         url: https://www.dayanzai.me
         icon: far fa-eye
@@ -111,10 +111,6 @@ categories:
         url: https://www.dllzj.com
         icon: fas fa-tools
         description: DLL文件搜索
-      - name: VS Code
-        url: https://code.visualstudio.com
-        icon: fas fa-code
-        description: 强大的代码编辑器
       
       - name: Snipaste
         url: https://zh.snipaste.com
@@ -186,7 +182,6 @@ categories:
         url: http://jishi.cctv.com
         icon: fab fa-youtube
         description: 汇集了央视大量优秀经典纪录片，集纳国内地方台、BBC、国家地理、NHK等
-      
   - name: 社区资讯
     icon: far fa-newspaper
     sites:
@@ -295,10 +290,6 @@ categories:
         url: http://www.zhaozi.cn
         icon: fas fa-font
         description: 提供中英文免费字体下载 
-      - name: 字体之家
-        url: http://www.17ziti.com
-        icon: fas fa-font
-        description:  字体之家提供最全的免费手机字体和手机软件下载
       - name: 字体传奇网
         url: http://ziticq.com
         icon: fas fa-font
