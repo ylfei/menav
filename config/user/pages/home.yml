@@ -28,7 +28,7 @@ categories:
         url: https://www.bilibili.com
         icon: fab fa-bilibili
         description: 以动漫、游戏、音乐等内容为主的视频弹幕网站
-  - name: 电子
+  - name: 电子邮箱
     icon: fas fa-envelopes-bulk
     sites:
       - name: 126邮箱
