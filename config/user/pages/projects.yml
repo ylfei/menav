@@ -2,7 +2,7 @@ title: 我的项目
 subtitle: 这里展示了我的一些个人项目和开源贡献
 
 # 指定使用的模板文件名，现有页面模板可见templates\pages
-template: projects
+template: 项目
 
 categories:
   - name: 个人项目
@@ -15,7 +15,7 @@ categories:
       - name: my导航
         icon: fas fa-sitemap
         description: 网站软件收藏
-        url: https://yanglf.ysepan.com
+        url: http://yanglf.ysepan.com
       - name: 个人博客
         icon: fas fa-blog
         description: 使用Hexo搭建的技术博客
