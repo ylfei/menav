@@ -240,7 +240,7 @@ categories:
         icon: fab fa-google-plus-g
         description: 用户可以直接在Chrome商店中下载和安装谷歌浏览器插件
       - name: Crx搜搜
-        url: https:/www.crxsoso.com
+        url: https://www.crxsoso.com
         icon: fab fa-google-plus-g
         description: 浏览器扩展商店
       - name: Greasy Fork
