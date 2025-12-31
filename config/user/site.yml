@@ -29,9 +29,10 @@ social:
     url: https://github.com/ylfei/menav
     icon: fab fa-github
   - name: 旧版导航
-    url: https://ylfei.github.io/d
+    url: https://ylfei.github.io/web
     icon: fab fa-github 
   - name: 今日热榜
     url: https://tophub.today/c/news
     icon: fas fa-magnifying-glass
     
+
