@@ -19,7 +19,7 @@ categories:
       - name: 个人博客
         icon: fas fa-blog
         description: 使用Hexo搭建的技术博客
-        url: https://ylfei-github-io.pages.dev
+        url: https://longf.pages.dev
   - name: 开源贡献
     icon: fas fa-code-branch
     sites:
@@ -30,4 +30,5 @@ categories:
       - name: Project B
         icon: fab fa-github
         description: 开源项目贡献
+
         url: "#" 
